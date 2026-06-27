@@ -19,7 +19,7 @@ This dataset is the public artifact behind Ring 12 ([Aegis AI](https://github.co
 ## Quick start
 
 ```bash
-git clone https://github.com/Alkur123/Aegentic-benchamark
+git clone https://github.com/Alkur123/agentic-redteam-benchmark
 cd agentic-redteam-benchmark
 
 # Validate the dataset (CI runs this on every PR)
